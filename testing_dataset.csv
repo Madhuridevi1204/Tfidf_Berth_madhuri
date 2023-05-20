@@ -1,0 +1,628 @@
+tender_id,bidder_id,tender_type_name,tender_category_name,tender_form_contract_name,bidder_name,bid_Value,bidder_location,bidder_ratings,tender_location,active
+2023_KSITM_21410_1,66548,Open Tender,Works,Supply,ksitm,2576679,Punjab,8,Kerala,0
+2023_LSGD_102279_1,262345,Open Tender,Works,Item Rate,Navas M J,4769616,Bihar,4,Tamil Nadu,0
+2023_LSGD_101460_1,254749,Open Tender,Works,Item Rate,C M MUHAMMED,6587595,Delhi,9,Madhya Pradesh,1
+2023_DIC_14940_1,29169,Open Tender,Goods,Item Rate,SRI BHAGAVATHI INDUSTRIES,8619140,Gujarat,8,Gujarat,0
+2023_DIC_14906_1,29277,Open Tender,Goods,Item Rate,Cochin Fire Tech,8016892,Kerala,5,Andhra Pradesh,0
+2023_DIC_14911_1,29075,Open Tender,Goods,Item Rate,PROMPT MACHINETOOLS CO.,7758638,Madhya Pradesh,5,Bihar,0
+2023_LSGD_109437_1,273156,Open Tender,Works,Item Rate,PONNU CONSTRUCTIONS,2180768,Andhra Pradesh,10,Tamil Nadu,0
+2023_LSGD_107971_1,269573,Open Tender,Works,Item Rate,Ushus,1486914,Bihar,8,Bihar,1
+2023_KP_30069_1,58862,Open Tender,Goods,Item Wise,Metrohm India Limited,3661024,Kerala,8,Bihar,1
+2023_LSGD_92842_1,230301,Open Tender,Works,Item Rate,J Anilkumar,7212604,Bihar,6,Rajasthan,0
+2023_LSGD_92846_1,230351,Open Tender,Works,Percentage,J Anilkumar,502467,Delhi,4,Bihar,1
+2023_LSGD_552023_6,1474548,Open Tender,Works,Item Rate,UMESH C,8618347,Andhra Pradesh,7,Bihar,0
+2023_KWA_94944_1,234236,Open Tender,Works,Percentage,V SUNDARAN,4310516,Kerala,10,Gujarat,1
+2023_PWD_32656_1,64750,Open Tender,Works,Percentage,SKC,203095,Delhi,6,Andhra Pradesh,0
+2023_PWD_32656_1,65375,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,7762256,Andhra Pradesh,4,Bihar,0
+2023_Irrig_31846_2,65132,Open Tender,Works,Percentage,PRASAD S,6177935,Andhra Pradesh,10,Delhi,0
+2023_LSGD_560059_1,1503456,Open Tender,Works,Item Rate,ADHIN VIJAY V,8998238,Rajasthan,6,Kerala,0
+2023_PWD_32660_1,64501,Open Tender,Works,Percentage,Sarde Agency,9571237,Delhi,1,Andhra Pradesh,0
+2023_LSGD_109155_1,273603,Open Tender,Works,Item Rate,mohammed ashraf,3659443,Andhra Pradesh,10,Delhi,0
+2023_LSGD_552023_6,1481088,Open Tender,Works,Item Rate,VIVEK A K,5253948,Gujarat,10,Andhra Pradesh,0
+2023_DTE_103015_1,263168,Open Tender,Goods,Item Wise,STALLION SYSTEMS AND SOLUTIONS PVT LTD,1698321,Kerala,10,Delhi,1
+2023_DTE_103015_1,259886,Open Tender,Goods,Item Wise,GANSON TECHNOLOGIES,2337907,Rajasthan,10,Madhya Pradesh,0
+2023_PWD_32664_1,64531,Open Tender,Works,Percentage,Afsal N.,389593,Kerala,4,Kerala,0
+2023_LSGD_95770_1,239123,Open Tender,Works,Item Wise,K K SAIDALAVI,9747049,Gujarat,8,Andhra Pradesh,0
+2023_LSGD_95770_1,238451,Open Tender,Works,Item Wise,PRIYADARSHINI LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD,9550493,Bihar,7,Punjab,0
+2023_LSGD_95770_1,238011,Open Tender,Works,Item Wise,Raju N K,4371721,Telangana,8,Telangana,0
+2023_LSGD_33725_1,66997,Open Tender,Works,Percentage,Thomas Prasad Abraham,2614262,Rajasthan,2,Delhi,0
+2023_LSGD_552023_4,1480781,Open Tender,Works,Item Rate,K V PADMARAJAN,1590913,Madhya Pradesh,8,Madhya Pradesh,0
+2023_LSGD_552023_4,1481139,Open Tender,Works,Item Rate,VIVEK A K,7568800,Rajasthan,1,Tamil Nadu,1
+2023_DPI_107800_1,272558,Open Tender,Goods,Item Rate,ASIATIC TRADING COMPANY,6299760,Tamil Nadu,5,Punjab,0
+2023_LSGD_110189_1,274153,Open Tender,Works,Item Rate,Noufal P M,7748244,Kerala,10,Rajasthan,0
+2023_LSGD_110189_1,274253,Open Tender,Works,Item Rate,M A SAYEED,7478903,Telangana,2,Delhi,0
+2023_DPI_107800_1,272058,Open Tender,Goods,Item Rate,CARRIS PIPES AND TUBES PRIVATE LIMITED,4300079,Bihar,2,Punjab,0
+2023_TEKL_26998_1,51413,Limited,Goods,Item Wise,Jaybee Laminations Pvt Ltd,7986895,Delhi,7,Bihar,0
+2023_TEKL_27845_1,53192,Limited,Goods,Item Wise,TTP TECHNOLOGIES PVT. LTD.,4190536,Punjab,10,Rajasthan,0
+2023_TEKL_27845_1,52732,Limited,Goods,Item Wise,P.E.Engineers Pvt. Ltd.,7135280,Telangana,4,Bihar,0
+2023_TEKL_26998_1,51521,Limited,Goods,Item Wise,Nexus Electro Steel Limited,9572346,Punjab,10,Delhi,0
+2023_TEKL_28669_1,55328,Limited,Goods,Item Wise,EASUNMR TAP CHANGERS PVT LTD,3119381,Punjab,8,Rajasthan,1
+2023_TEKL_27845_1,53312,Limited,Goods,Item Wise,Thermotech,5492668,Gujarat,5,Rajasthan,0
+2023_TEKL_27831_7,55301,Limited,Goods,Item Wise,EASUNMR TAP CHANGERS PVT LTD,3282942,Telangana,2,Gujarat,1
+2023_TEKL_30002_1,58204,Limited,Goods,Item Rate,Jaybee Laminations Pvt Ltd,9784546,Kerala,4,Bihar,1
+2023_TEKL_27831_7,55354,Limited,Goods,Item Wise,CTR MANUFACTURING INDUSTRIES LTD,9818527,Bihar,2,Telangana,0
+2023_TEKL_30002_1,58083,Limited,Goods,Item Rate,Kryfs Power Componetes Ltd,690877,Andhra Pradesh,2,Tamil Nadu,0
+2023_Irrig_33593_1,67825,Open Tender,Works,Percentage,va george,9563933,Punjab,7,Rajasthan,0
+2023_LSGD_23234_1,47947,Open Tender,Works,Percentage,Surendran_constructions,1586286,Gujarat,5,Andhra Pradesh,0
+2023_TEKL_30579_3,61098,Limited,Goods,Item Wise,Thermotech,210864,Kerala,6,Delhi,0
+2023_PWD_32939_1,66434,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,2011849,Punjab,3,Rajasthan,1
+2023_CRD_548366_2,1481475,Open Tender,Goods,Item Rate,ACE MOTORS PVT LTD,3139793,Delhi,6,Punjab,0
+2023_LSGD_107944_1,267602,Open Tender,Works,Item Rate,P A SHAJI,2686142,Telangana,8,Telangana,0
+2023_PWD_33255_1,66763,Open Tender,Works,Percentage,SHAJAHAN,3664426,Delhi,1,Tamil Nadu,1
+2023_LSGD_107944_1,270429,Open Tender,Works,Item Rate,NAKSHATHRA CONSTRUCTION,7358677,Madhya Pradesh,2,Tamil Nadu,0
+2023_LSGD_107944_1,270872,Open Tender,Works,Item Rate,ALEN WILSON,2094027,Kerala,9,Gujarat,1
+2023_KMSCL_30172_12,58908,Open Tender,Goods,Item Wise,Manchel Marketing Company,1163628,Bihar,9,Bihar,0
+2023_PWD_32931_1,66380,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,432495,Andhra Pradesh,10,Punjab,1
+2023_PWD_32947_1,66452,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,7072113,Gujarat,3,Bihar,0
+2023_CRD_548366_2,1481942,Open Tender,Goods,Item Rate,"KSEDC Ltd, Keltron Controls Division",9350352,Bihar,8,Andhra Pradesh,0
+2023_PWD_32975_1,66450,Open Tender,Works,Percentage,AK CONSTRUCTIONS,677217,Tamil Nadu,5,Kerala,0
+2023_LSGD_34079_1,67828,Open Tender,Works,Percentage,MURALIDHARAN K,8617080,Punjab,2,Kerala,0
+2023_CRD_551471_1,1476718,Open Tender,Works,Item Rate,PRABHA.M.V,1386484,Gujarat,4,Rajasthan,0
+2023_GCDA_30644_1,60562,Open Tender,Works,Percentage,MEC ENGINEERS (INDIA),4860760,Kerala,4,Tamil Nadu,0
+2023_GCDA_30644_1,60682,Open Tender,Works,Percentage,K V JOSEPH AND SONS PRIVATE LIMITED,8845588,Madhya Pradesh,3,Punjab,0
+2023_GCDA_30644_1,60535,Open Tender,Works,Percentage,T P CONSTRUCTIONS,5930729,Tamil Nadu,1,Tamil Nadu,0
+2023_GCDA_30644_1,60895,Open Tender,Works,Percentage,KVJ BUILDERS DEVELOPERS PVT LTD,5169957,Bihar,1,Gujarat,0
+2023_LSGD_406386_1,1004874,Open Tender,Works,Item Rate,V ANILKUMAR,5841748,Kerala,3,Punjab,0
+2023_Irrig_33593_1,67710,Open Tender,Works,Percentage,N M JOHN,2633674,Tamil Nadu,7,Delhi,0
+2023_UoC_106187_1,265500,Open Tender,Goods,Item Rate,LAWRENCE AND MAYO INDIA PVT LTD,3707789,Andhra Pradesh,9,Telangana,1
+2023_UoC_106187_1,267776,Open Tender,Goods,Item Rate,UNIVERSAL AGENCIES,8014573,Kerala,4,Tamil Nadu,0
+2023_PWD_28041_1,55271,Open Tender,Works,Percentage,ct.ramanathan infrastructure pvt ltd,1027972,Andhra Pradesh,2,Kerala,0
+2023_PWD_28041_1,54472,Open Tender,Works,Percentage,joseph thomas,9105568,Kerala,5,Madhya Pradesh,0
+2023_FITL_30761_3,63646,Open Tender,Works,Item Wise,Ind Tech Interiors and Contractors Pvt Ltd,8179533,Delhi,1,Kerala,0
+2023_PWD_33264_1,66757,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,7809933,Kerala,5,Kerala,0
+2023_PWD_33332_2,66884,Open Tender,Works,Percentage,SALIM MOHAMMED KUNJU,4220142,Bihar,7,Madhya Pradesh,0
+2023_PWD_33332_2,66901,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,3194672,Telangana,9,Kerala,1
+2023_PWD_33264_1,66366,Open Tender,Works,Percentage,Kollam Progressive Labour Contract Co-Operative Society Ltd,6661354,Gujarat,1,Rajasthan,0
+2023_PWD_33255_1,66756,Open Tender,Works,Percentage,BHARANIKKAVU LABOUR CONTRACT CO-OPERATIVE SOCIETY LTD.NO.Q.1247,4925677,Gujarat,6,Delhi,0
+2023_PWD_33564_1,67718,Open Tender,Works,Percentage,Kollam Progressive Labour Contract Co-Operative Society Ltd,2334778,Tamil Nadu,4,Rajasthan,0
+2023_PWD_551362_1,1478708,Open Tender,Works,Item Rate,MARIYA CONSTRUCTION COMPANY,9064912,Bihar,5,Bihar,0
+2023_DTE_107385_1,268182,Open Tender,Goods,Item Rate,EMPOWER TECHNOLOGIES,5986288,Kerala,1,Tamil Nadu,0
+2023_DTE_107385_1,271425,Open Tender,Goods,Item Rate,RIYA REPROGRAPHICS BUSINESS SYSTEMS,1940502,Delhi,1,Rajasthan,0
+2023_DTE_107385_1,275537,Open Tender,Goods,Item Rate,K M Technologies,8971375,Madhya Pradesh,1,Gujarat,1
+2023_KWA_406390_1,1004738,Open Tender,Works,Percentage,SAJU THOMAS,5046922,Andhra Pradesh,4,Gujarat,0
+2023_KMSCL_27483_12,53061,Open Tender,Goods,Item Wise,SOUTH INDIA SURGICAL CO. LTD,7512943,Gujarat,7,Gujarat,1
+2023_Irrig_300986_1,741535,Open Tender,Works,Item Rate,K M DAVID,5405142,Tamil Nadu,1,Kerala,0
+2023_PWD_33685_1,67941,Open Tender,Works,Percentage,Robin.P.Alex,4224530,Bihar,9,Kerala,0
+2023_PWD_33391_1,66987,Open Tender,Works,Percentage,SHAJAHAN,210847,Andhra Pradesh,9,Telangana,0
+2023_LSGD_95968_3,253375,Open Tender,Works,Item Rate,M/S SAJEEVAN P A,1617936,Andhra Pradesh,8,Kerala,0
+2023_LSGD_95968_3,254772,Open Tender,Works,Item Rate,vinu sivadas,2873881,Telangana,1,Madhya Pradesh,0
+2023_DAH_27329_2,57220,Open Tender,Goods,Item Wise,Kerala Surgical Equipment Co.,3723359,Andhra Pradesh,5,Kerala,0
+2023_Irrig_33934_1,67114,Open Tender,Works,Percentage,S Unnikrishnan,5315208,Delhi,10,Madhya Pradesh,0
+2023_TDB_83897_1,200119,Open Tender,Goods,Lump-sum,GOPALAN KUNJUNJ,5582776,Delhi,8,Gujarat,0
+2023_TDB_83897_1,200058,Open Tender,Goods,Lump-sum,SOJI RAJAPPAN,2090014,Gujarat,2,Rajasthan,1
+2023_Irrig_33934_1,69090,Open Tender,Works,Percentage,GEORGE JOSEPH,9765995,Rajasthan,8,Punjab,0
+2023_PWD_553244_1,1479688,Open Tender,Works,Item Rate,SUDEVAN T,7176210,Kerala,6,Rajasthan,0
+2023_DIT_84063_3,273024,Open Tender,Goods,Item Wise,Micro Mech Instruments,6262050,Telangana,4,Andhra Pradesh,0
+2023_PWD_110648_1,274638,Open Tender,Works,Percentage,Tom C Kavalackal,9314230,Kerala,9,Andhra Pradesh,0
+2023_LSGD_550527_34,1476831,Open Tender,Works,Item Rate,Fasil H,3867734,Andhra Pradesh,3,Bihar,0
+2023_PWD_553244_1,1480514,Open Tender,Works,Item Rate,P HAMZA HAJI,1220803,Punjab,6,Andhra Pradesh,0
+2023_LSGD_550527_34,1476794,Open Tender,Works,Item Rate,sadiqali,4037761,Kerala,5,Bihar,1
+2023_PWD_110648_1,275610,Open Tender,Works,Percentage,Geogy George K,6540893,Gujarat,7,Rajasthan,0
+2023_CUSAT_30026_1,59648,Limited,Goods,Supply and Service,Datahard Info Systems Pvt Ltd.,3670173,Punjab,3,Madhya Pradesh,0
+2023_CUSAT_30026_1,59589,Limited,Goods,Supply and Service,KELTRON CONTROLS,7496222,Delhi,3,Andhra Pradesh,0
+2023_CUSAT_30026_1,60017,Limited,Goods,Supply and Service,ideal systems,1502990,Bihar,6,Telangana,0
+2023_Irrig_34233_1,70331,Limited,Works,Percentage,va george,9677698,Madhya Pradesh,2,Punjab,1
+2023_CUSAT_30026_1,60015,Limited,Goods,Supply and Service,MASTECH COMPUTERS,6497322,Tamil Nadu,1,Kerala,0
+2023_DIT_109653_1,276289,Limited,Goods,Item Wise,IGA TECH Industrial Electronics Pvt Ltd,3577787,Andhra Pradesh,4,Punjab,0
+2023_Irrig_34644_1,71843,Limited,Works,Percentage,Benny O.M.,1312192,Telangana,2,Andhra Pradesh,1
+2023_LSGD_33237_1,65771,Limited,Works,Percentage,K.K ABBAS,4485058,Rajasthan,3,Kerala,0
+2023_LSGD_34692_1,69109,Limited,Works,Percentage,Hakkeem N,2955892,Bihar,6,Bihar,0
+2023_DIT_109653_1,275754,Limited,Goods,Item Wise,SUPRA HI TECH ELECTRO EQUIPMENTS PVT LTD,9503144,Gujarat,8,Telangana,0
+2023_DIT_95126_2,275820,Limited,Goods,Item Wise,Kapal Industries,7181019,Madhya Pradesh,5,Gujarat,1
+2023_DIT_95126_2,274899,Limited,Goods,Item Wise,KENCRAFT INDIA PVT. LTD.,486372,Bihar,10,Bihar,0
+2023_LSGD_547986_3,1480094,Limited,Works,Item Rate,PRADEEP.T,7446957,Punjab,9,Gujarat,0
+2023_LSGD_32958_1,66186,Limited,Works,Percentage,BASHEER T.A,3150899,Andhra Pradesh,2,Delhi,0
+2023_LSGD_110880_1,276833,Limited,Goods,Item Rate,HALCYON TRANSMISSION TECHNOLOGIES,5983317,Andhra Pradesh,6,Delhi,0
+2023_LSGD_110880_1,276528,Limited,Goods,Item Rate,Power CMS Technology,1788700,Kerala,3,Andhra Pradesh,0
+2023_LSGD_34338_1,69130,Limited,Works,Percentage,ANIL S,7542999,Punjab,4,Bihar,0
+2023_LSGD_34338_1,69039,Limited,Works,Percentage,ARUN SOMAN,3583937,Madhya Pradesh,4,Rajasthan,0
+2023_LSGD_34338_1,68787,Limited,Works,Percentage,NKV Constructions,2545369,Gujarat,10,Punjab,0
+2023_LSGD_111097_1,275145,Limited,Goods,Supply,"M A JAMES, Mannasseril",8571383,Kerala,8,Gujarat,1
+2023_LSGD_111097_1,277350,Limited,Goods,Supply,XAVIER C M,5273630,Telangana,8,Madhya Pradesh,0
+2023_LSGD_547986_3,1480340,Limited,Works,Item Rate,BABU K,3498984,Madhya Pradesh,10,Tamil Nadu,0
+2023_LSGD_547986_3,1480382,Limited,Works,Item Rate,ReneeshJeo,1798919,Telangana,1,Delhi,0
+2023_LBS_89538_1,227764,Limited,Goods,Supply and Service,Hitech India Equipments Pvt Ltd,2771053,Rajasthan,2,Punjab,0
+2023_LSGD_547986_4,1479915,Limited,Works,Item Rate,SHIBU,1673869,Rajasthan,3,Tamil Nadu,0
+2023_LBS_89538_1,220991,Limited,Goods,Supply and Service,Elcome Technologies Pvt Ltd.,3661587,Delhi,4,Tamil Nadu,1
+2023_LBS_89538_1,226042,Limited,Goods,Supply and Service,GeoMax Positioning Systems Pvt Ltd,1735105,Rajasthan,4,Delhi,0
+2023_LSGD_32816_1,65383,Limited,Works,Percentage,Noufal P M,2663727,Madhya Pradesh,9,Tamil Nadu,0
+2023_LBS_89538_1,224768,Limited,Goods,Supply and Service,AIMIL LIMITED,7186862,Tamil Nadu,4,Bihar,0
+2023_TRACO_30046_1,58752,Limited,Goods,Item Wise,Victory Plant and Machinery Pvt. Ltd.,1484516,Tamil Nadu,7,Kerala,0
+2023_LSGD_32812_1,65395,Limited,Works,Percentage,ANDUNHI A B,9140829,Kerala,5,Bihar,0
+2023_LSGD_547986_4,1479920,Limited,Works,Item Rate,MAHESH,1120476,Telangana,7,Tamil Nadu,0
+2023_LSGD_32892_1,65104,Limited,Works,Percentage,G S RAJEEV,1336532,Rajasthan,2,Kerala,0
+2023_LSGD_83825_2,250350,Limited,Works,Percentage,T J Mathai and Co,5118041,Madhya Pradesh,5,Andhra Pradesh,0
+2023_SSUS_80109_2,202686,Limited,Goods,Item Rate,COOLCARE,5828144,Bihar,3,Delhi,1
+2023_DIT_106673_1,269326,Limited,Goods,Item Wise,Hykon India Pvt. Ltd,4506740,Andhra Pradesh,5,Punjab,1
+2023_CUSAT_30297_1,60763,Limited,Goods,Item Rate,VT VACUUM TECHNOLOGIES PVT. LTD.,8786891,Telangana,7,Andhra Pradesh,0
+2023_CUSAT_30297_1,60982,Limited,Goods,Item Rate,Mansha Vacuum Technologies Pvt Ltd,7534647,Andhra Pradesh,6,Gujarat,1
+2023_CUSAT_30297_1,60820,Limited,Goods,Item Rate,NASKAR AND COMPANY,400107,Punjab,4,Telangana,0
+2023_DME_23195_1,46143,Limited,Goods,Item Rate,Mediserve,3328416,Madhya Pradesh,3,Rajasthan,0
+2023_CUSAT_30297_1,59131,Limited,Goods,Item Rate,VNV ECO PROJECTS Private Limited,340853,Gujarat,6,Madhya Pradesh,0
+2023_DIT_106673_1,269982,Limited,Goods,Item Wise,Zigma Solutions,744394,Gujarat,10,Rajasthan,0
+2023_DIT_106673_1,270069,Limited,Goods,Item Wise,IGA TECH Industrial Electronics Pvt Ltd,5873301,Punjab,1,Telangana,1
+2023_LSGD_109082_1,269887,Limited,Works,Item Rate,AJITH,5645770,Kerala,3,Punjab,0
+2023_LSGD_90878_3,255673,Limited,Works,Item Rate,R JAYAPRAKASH,5081378,Rajasthan,6,Punjab,1
+2023_LSGD_90878_2,252876,Limited,Works,Item Rate,NAZEER P MUHAMMED,6660791,Punjab,2,Kerala,1
+2023_LSGD_109082_1,270287,Limited,Works,Item Rate,KERALA STATE INDUSTRIAL ENTERPRISES LTD,6365901,Tamil Nadu,9,Tamil Nadu,0
+2023_LSGD_23611_2,55258,Limited,Works,Percentage,Binu K,1070679,Andhra Pradesh,6,Bihar,1
+2023_LSGD_108928_1,270026,Limited,Works,Item Rate,Bioway Packs Pvt Ltd,1314273,Gujarat,4,Andhra Pradesh,0
+2023_LSGD_108928_1,270556,Limited,Works,Item Rate,UNIVERSAL ECO BAGS,6779444,Bihar,10,Kerala,0
+2023_KITCO_30641_1,60357,Limited,Works,Percentage,Marymatha Construction Company,4512723,Bihar,8,Andhra Pradesh,0
+2023_KITCO_30641_1,60360,Limited,Works,Percentage,SRICO PROJECTS PVT LTD,5799189,Bihar,5,Delhi,0
+2023_KITCO_30641_1,60348,Limited,Works,Percentage,K V JOSEPH AND SONS PRIVATE LIMITED,6196692,Rajasthan,2,Madhya Pradesh,0
+2023_KITCO_30641_1,60295,Limited,Works,Percentage,P S K Engineering Construction and Co,1866691,Delhi,10,Delhi,0
+2023_LSGD_31641_1,62535,Limited,Works,Percentage,Pushpagiri Constructions,2820431,Andhra Pradesh,1,Punjab,1
+2023_LSGD_25747_1,49337,Limited,Works,Percentage,kizhakkekara con,8616921,Andhra Pradesh,10,Punjab,0
+2023_PWD_18369_3,58298,Limited,Works,Percentage,P.K.CONSTRUCTION COMPANY,5091181,Gujarat,7,Gujarat,0
+2023_PWD_18369_3,58552,Limited,Works,Percentage,Kerala State Construction Corporation Ltd,9286467,Bihar,7,Madhya Pradesh,0
+2023_PWD_18369_3,58512,Limited,Works,Percentage,G SUKUMARAN,1519165,Gujarat,3,Rajasthan,0
+2023_PWD_18369_3,58537,Limited,Works,Percentage,M/s George Elias And Associates,4942223,Andhra Pradesh,9,Rajasthan,1
+2023_PWD_29732_1,58852,Limited,Works,Percentage,BIJU. M,9922536,Rajasthan,1,Gujarat,0
+2023_LSGD_27755_1,53308,Limited,Works,Percentage,Sunil,6267951,Kerala,1,Andhra Pradesh,0
+2023_PWD_29732_1,58860,Limited,Works,Percentage,NARAYANAN. P.V.,7716644,Kerala,5,Madhya Pradesh,0
+2023_CAPEX_31416_1,63024,Limited,Goods,Item Wise,NORTH STAR COMMODITIES,2155373,Telangana,4,Telangana,0
+2023_KSCDC_31833_1,63069,Limited,Goods,Item Wise,J M J Traders,8668642,Rajasthan,3,Rajasthan,1
+2023_KSCDC_31836_1,63101,Limited,Goods,Item Wise,NORTH STAR COMMODITIES,9807721,Gujarat,9,Gujarat,0
+2023_KSCDC_31836_1,63073,Limited,Goods,Item Wise,J M J Traders,3913238,Punjab,3,Delhi,0
+2023_CAPEX_31416_1,63022,Limited,Goods,Item Wise,J M J Traders,8967035,Telangana,10,Tamil Nadu,0
+2023_DP_103058_1,266194,Limited,Goods,Supply,KOCHUMELATHIL AGENCIES,2779067,Tamil Nadu,4,Tamil Nadu,0
+2023_DP_103058_1,266151,Limited,Goods,Supply,RPC AND COMPANY,9791618,Punjab,9,Telangana,1
+2023_DTE_105804_1,266860,Limited,Goods,Item Wise,HALCYON TRANSMISSION TECHNOLOGIES,1986298,Tamil Nadu,1,Rajasthan,0
+2023_DTE_105804_1,264502,Limited,Goods,Item Wise,smartsoft,8877047,Rajasthan,6,Rajasthan,0
+2023_DTE_105804_1,267061,Limited,Goods,Item Wise,ACS TECHNOLOGIES,1369174,Tamil Nadu,5,Andhra Pradesh,0
+2023_DTE_105804_1,266536,Limited,Goods,Item Wise,DBRAINS INFO SYSTEMS & CONTROLS PRIVATE LIMITED,9882048,Madhya Pradesh,9,Tamil Nadu,0
+2023_LSGD_23756_1,46390,Limited,Works,Percentage,Moosa .T.A,6042070,Tamil Nadu,4,Tamil Nadu,0
+2023_HPC_31289_1,62069,Limited,Works,Percentage,sureshkumar,9258378,Delhi,4,Delhi,0
+2023_UoC_106462_1,267462,Limited,Goods,Item Rate,origin Techserve Pvt Ltd,1191552,Tamil Nadu,1,Tamil Nadu,0
+2023_LSGD_102321_1,270630,Limited,Works,Item Rate,G S RAJEEV,1450644,Delhi,6,Bihar,0
+2023_LSGD_109000_1,271069,Limited,Works,Item Rate,SENTHIL KUMAR P K,5877772,Madhya Pradesh,5,Kerala,0
+2023_LSGD_109000_1,270851,Limited,Works,Item Rate,VIBIN B,4992855,Gujarat,9,Bihar,0
+2023_KSEB_94194_1,249026,Limited,Works,Percentage,Sajan C Mathew,2311656,Kerala,1,Punjab,0
+2023_HED_15344_1,30887,Limited,Works,Percentage,K.K.ENGINEERING COMPANY,9698032,Andhra Pradesh,5,Punjab,0
+2023_UoC_106462_1,266575,Limited,Goods,Item Rate,Progility Technologies Pvt Ltd,2652597,Madhya Pradesh,6,Punjab,1
+2023_LSGD_107447_1,267823,Limited,Works,Item Rate,Mohanan P-Works Contractor,377567,Madhya Pradesh,5,Bihar,1
+2023_LSGD_29469_1,57323,Limited,Works,Percentage,BIJU. M,6429446,Gujarat,2,Andhra Pradesh,1
+2023_LSGD_102498_2,267815,Limited,Works,Item Rate,KC PAILY AND SONS,6624926,Kerala,9,Rajasthan,0
+2023_LSGD_100721_2,267979,Limited,Works,Item Rate,V V MATHAI,5016087,Bihar,9,Madhya Pradesh,1
+2023_DP_94898_2,268546,Limited,Works,Item Rate,KERALA STATE ELECTRONICS DEVELOPMENT CORPORATION,409718,Punjab,8,Kerala,0
+2023_LSGD_30123_1,58240,Limited,Works,Percentage,K.V.JAYAPRAKASH,9892247,Rajasthan,1,Punjab,0
+2023_DP_94898_2,270754,Limited,Works,Item Rate,KALLOOR ELECTRONICS AND LIGHTING PVT LTD,5397983,Telangana,5,Telangana,0
+2023_LSGD_100521_2,267565,Limited,Works,Item Rate,jentyjoseph,2183982,Tamil Nadu,6,Kerala,0
+2023_DP_94898_2,271553,Limited,Works,Item Rate,MERKURY ELECTRICAL CORPORATION,3452634,Bihar,2,Telangana,0
+2023_KLDC_31798_1,62996,Limited,Works,Percentage,M and T Constructions,6145590,Madhya Pradesh,4,Kerala,1
+2023_PSC_109658_1,270639,Limited,Goods,Supply,SOLAR OFFSET PRINTERS PVT LTD.,9156048,Delhi,7,Punjab,0
+2023_KLDC_31798_1,62977,Limited,Works,Percentage,alankar construction company,3148297,Gujarat,2,Tamil Nadu,1
+2023_KSEB_101529_1,258478,Limited,Works,Percentage,SHIBU MATHEW,9168732,Rajasthan,2,Bihar,0
+2023_PSC_109658_1,271385,Limited,Goods,Supply,Akshara Offset,5643062,Andhra Pradesh,10,Andhra Pradesh,1
+2023_KSEB_101570_1,258542,Limited,Works,Percentage,SHIBU MATHEW,8138444,Gujarat,3,Telangana,1
+2023_PWD_31605_1,62538,Limited,Works,Percentage,Nithinsankar.C.P,2969080,Rajasthan,3,Bihar,1
+2023_PWD_27495_1,52691,Limited,Works,Percentage,Kuriekal Projects And Contractors PVT Ltd,3086168,Tamil Nadu,7,Punjab,1
+2023_PWD_27495_1,53198,Open Limited,Works,Percentage,Creators Constructions,848283,Madhya Pradesh,6,Bihar,1
+2023_RIT_107410_1,268141,Open Limited,Goods,Item Wise,Integrated Instruments And Services,9437187,Madhya Pradesh,6,Madhya Pradesh,0
+2023_RIT_107410_1,270049,Open Limited,Goods,Item Wise,Scientific Enterprises,5837047,Madhya Pradesh,7,Punjab,1
+2023_RIT_107410_1,269473,Open Limited,Goods,Item Wise,Hydraulic and Engineering Instruments,4206027,Tamil Nadu,8,Gujarat,0
+2023_RIT_107410_1,267911,Open Limited,Goods,Item Wise,Lakshmi Vacuum Technologies Pvt Ltd,6381147,Andhra Pradesh,2,Delhi,1
+2023_PWD_31605_1,62523,Open Limited,Works,Percentage,THE URALUNGAL LABOUR CONTRACT CO-OPERATIVE SOCIETY,5176538,Andhra Pradesh,3,Gujarat,0
+2023_PWD_14717_1,29685,Open Limited,Works,Percentage,THE URALUNGAL LABOUR CONTRACT CO-OPERATIVE SOCIETY,2943431,Andhra Pradesh,5,Tamil Nadu,1
+2023_PWD_27495_1,52961,Open Limited,Works,Percentage,ct.ramanathan infrastructure pvt ltd,9915505,Gujarat,6,Gujarat,0
+2023_FD_31033_1,62386,Open Limited,Works,Percentage,UBAID ASSOCIATES,7001426,Bihar,4,Delhi,1
+2023_PWD_31839_1,63057,Open Limited,Goods,Item Wise,KERALA STATE ELECTRONICS DEVELOPMENT CORPORATION Ltd,6218603,Bihar,7,Tamil Nadu,0
+2023_LSGD_28384_1,54824,Open Limited,Works,Percentage,Anil kumar .C,5268997,Kerala,9,Madhya Pradesh,0
+2023_LSGD_108427_1,269897,Open Limited,Works,Item Rate,THAIKKOOTTATHIL,9635065,Tamil Nadu,5,Gujarat,1
+2023_KWA_32757_1,64071,Open Limited,Works,Percentage,Anil Kumar,6906332,Gujarat,2,Delhi,1
+2023_KSTCL_31766_1,62021,Open Limited,Goods,Item Rate,SIVA SAI AGENCIES,3635120,Rajasthan,10,Gujarat,0
+2023_KSTCL_31766_1,62253,Open Limited,Goods,Item Rate,Lalitha  corporation,4835787,Telangana,2,Tamil Nadu,1
+2023_SFCK_107851_1,268528,Open Limited,Goods,Item Wise,MANAKUZHIYIL TIMBERS,3099398,Punjab,3,Delhi,0
+2023_SFCK_107766_1,267842,Open Limited,Goods,Item Wise,NEW KERALA INDUSTRIES,8304601,Gujarat,2,Delhi,0
+2023_DIT_108964_1,271746,Open Limited,Goods,Item Wise,Scientific Enterprises,4029947,Andhra Pradesh,5,Kerala,0
+2023_KSEB_31892_1,64101,Open Limited,Works,Percentage,SATHEESAN P J,1540371,Gujarat,7,Bihar,0
+2023_KSEB_31892_1,64279,Open Limited,Works,Percentage,IYPE,7240519,Delhi,3,Kerala,1
+2023_TRACO_32547_1,63959,Open Limited,Goods,Item Rate,Satyashree Balaji Wires and Cables Pvt Ltd,700878,Delhi,3,Madhya Pradesh,1
+2023_DIT_108964_1,272335,Open Limited,Goods,Item Wise,VRISHABH ELECTRO SALES,4566994,Tamil Nadu,3,Telangana,0
+2023_SFCK_107766_1,268828,Open Limited,Goods,Item Wise,P K G SAWMILL,9572573,Delhi,6,Kerala,1
+2023_SFCK_107848_1,269449,Open Limited,Goods,Item Wise,T P MOHAMMED,6098962,Bihar,3,Tamil Nadu,1
+2023_DIT_108433_1,271696,Open Limited,Goods,Item Wise,Scientific Enterprises,1807627,Andhra Pradesh,3,Tamil Nadu,1
+2023_SFCK_107811_1,269521,Open Limited,Goods,Item Wise,SHINE STAR TIMBERS,3822934,Punjab,5,Rajasthan,0
+2023_SFCK_107811_1,269455,Open Limited,Goods,Item Wise,T P MOHAMMED,1712284,Telangana,6,Delhi,0
+2023_LSGD_32630_1,64190,Open Limited,Works,Percentage,NA,4914251,Gujarat,7,Madhya Pradesh,0
+2023_SFCK_107848_1,269600,Open Limited,Goods,Item Wise,SHINE STAR TIMBERS,1156642,Tamil Nadu,7,Madhya Pradesh,0
+2023_SFCK_107853_1,267944,Open Limited,Goods,Item Wise,LEKSHMIRUBBER,8674527,Gujarat,7,Bihar,1
+2023_LSGD_32630_1,64452,Open Limited,Works,Percentage,v j mathew,476685,Rajasthan,5,Delhi,1
+2023_SFCK_107853_1,268342,Open Limited,Goods,Item Wise,NEW KERALA INDUSTRIES,4857488,Gujarat,5,Delhi,0
+2023_SFCK_107853_1,269275,Open Limited,Goods,Item Wise,P K G SAWMILL,8846163,Rajasthan,7,Madhya Pradesh,1
+2023_LSGD_18263_1,37290,Open Limited,Works,Percentage,NIJO,1326444,Madhya Pradesh,6,Delhi,1
+2023_SFCK_107856_1,268338,Open Limited,Goods,Item Wise,NEW KERALA INDUSTRIES,8180610,Punjab,4,Telangana,1
+2023_SFCK_107850_1,268525,Open Limited,Goods,Item Wise,MANAKUZHIYIL TIMBERS,4551910,Tamil Nadu,7,Bihar,0
+2023_SFCK_107856_1,268864,Open Limited,Goods,Item Wise,P K G SAWMILL,5414400,Gujarat,3,Madhya Pradesh,1
+2023_SFCK_107856_1,269417,Open Limited,Goods,Item Wise,rajappan pillai,7127311,Andhra Pradesh,1,Rajasthan,1
+2023_SFCK_107857_1,269566,Open Limited,Goods,Item Wise,chacko varghese,7833729,Punjab,1,Madhya Pradesh,0
+2023_SFCK_107850_1,268336,Open Limited,Goods,Item Wise,N C VARGHESE,9265975,Madhya Pradesh,5,Andhra Pradesh,0
+2023_SFCK_107859_1,268330,Open Limited,Goods,Item Wise,NEW KERALA INDUSTRIES,8102378,Kerala,10,Delhi,1
+2023_LSGD_109437_1,273266,Open Limited,Works,Item Rate,Benny&Co.,8045102,Kerala,2,Andhra Pradesh,0
+2023_SFCK_107859_1,269253,Open Limited,Goods,Item Wise,P K G SAWMILL,1620442,Gujarat,3,Gujarat,0
+2023_SFCK_107859_1,269661,Open Limited,Goods,Item Wise,SHINE STAR TIMBERS,6540888,Rajasthan,1,Tamil Nadu,1
+2023_SFCK_107859_1,269576,Open Limited,Goods,Item Wise,NILE FOOD PRODUCTS. branch. NADIYA TIMBERS,8206060,Rajasthan,8,Kerala,0
+2023_KWA_108270_1,273556,Open Limited,Services,Item Rate,Kriti Microsystem,737798,Andhra Pradesh,8,Madhya Pradesh,0
+2023_LSGD_29632_1,57976,Open Limited,Works,Percentage,P SADASIVAN,5525307,Rajasthan,10,Bihar,0
+2023_KSEB_101225_1,266645,Open Limited,Works,Item Rate,Bethlahem Constructions,5378633,Bihar,9,Andhra Pradesh,0
+2023_KSEB_101225_1,259566,Open Limited,Works,Item Rate,Aneesh.T.T,7522099,Gujarat,5,Madhya Pradesh,0
+2023_KSTCL_29488_1,57261,Open Limited,Goods,Item Rate,RV AND SONS,5323886,Tamil Nadu,5,Andhra Pradesh,0
+2023_KSCDC_30394_1,59157,Open Limited,Goods,Item Wise,J M J Traders,5785546,Bihar,9,Gujarat,0
+2023_PWD_105627_1,263267,Open Limited,Works,Percentage,"Rooby John, M/s RubySoft Tech",7354390,Telangana,6,Rajasthan,1
+2023_KSCDC_30394_1,59138,Open Limited,Goods,Item Wise,TNR TRADERS,9879277,Bihar,9,Delhi,1
+2023_KSCDC_30394_1,59162,Open Limited,Goods,Item Wise,NORTH STAR COMMODITIES,8356475,Bihar,6,Andhra Pradesh,1
+2023_KSTCL_29489_1,57262,Open Limited,Goods,Item Rate,RV AND SONS,7297871,Rajasthan,3,Telangana,1
+2023_LSGD_28769_1,55584,Open Limited,Works,Percentage,SURESHKUMAR,5169582,Madhya Pradesh,8,Punjab,0
+2023_LSGD_28768_1,55523,Open Limited,Works,Percentage,KRISHNANKUTTY K,4644345,Rajasthan,4,Rajasthan,0
+2023_KSTCL_29488_1,57409,Open Limited,Goods,Item Rate,Lalitha  corporation,9113879,Kerala,7,Telangana,0
+2023_KSTCL_29480_1,57259,Open Limited,Goods,Item Rate,RV AND SONS,8156797,Tamil Nadu,7,Gujarat,0
+2023_KSTCL_29477_1,57257,Open Limited,Goods,Item Rate,RV AND SONS,4010203,Andhra Pradesh,10,Gujarat,0
+2023_KSTCL_29489_1,57381,Open Limited,Goods,Item Rate,Lalitha  corporation,2340697,Kerala,10,Bihar,0
+2023_PWD_7683_1,15930,Open Limited,Works,Percentage,irikkur construction company,574597,Tamil Nadu,10,Andhra Pradesh,1
+2023_CUSAT_29411_1,57311,Open Limited,Works,Item Rate,RAJENDERAN P.V,8105113,Madhya Pradesh,7,Punjab,1
+2023_CUSAT_29411_1,57307,Open Limited,Works,Item Rate,ANWAR P. A.,6186095,Tamil Nadu,6,Rajasthan,0
+2023_CUSAT_29411_1,57318,Open Limited,Works,Item Rate,MEETHEEN KUNJU P K,2419164,Rajasthan,9,Tamil Nadu,1
+2023_PWD_7683_1,16007,Open Limited,Works,Percentage,M/s Kerala State Construction Corporation Ltd,3874759,Bihar,10,Andhra Pradesh,1
+2023_UoC_102880_1,261048,Open Limited,Goods,Item Rate,ANATEK SERVICES PVT LTD,781056,Madhya Pradesh,9,Gujarat,0
+2023_LSGD_103023_1,256687,Open Limited,Works,Item Wise,PV JANARDHANAN,4381835,Delhi,4,Delhi,0
+2023_LSGD_98176_2,265108,Open Limited,Works,Item Rate,SUKUMARAN K,8730786,Kerala,6,Telangana,1
+2023_KSCDC_30233_1,59504,Open Limited,Works,Turn-key,Scigenics India Pvt Ltd,9253489,Bihar,2,Delhi,1
+2023_CAPEX_30457_1,59865,Open Limited,Goods,Item Wise,VINAYAK COMMERECIAL COMPANY,4022864,Bihar,9,Bihar,1
+2023_PWD_15378_2,32223,Open Limited,Works,Percentage,ALIYAS CHERIAN,2046015,Punjab,7,Telangana,1
+2023_LSGD_106173_1,264656,Open Limited,Works,Item Rate,ANOOP KUMAR A K,2316714,Madhya Pradesh,5,Delhi,0
+2023_CDIT_106320_1,267017,Open Limited,Goods,Supply,StarOne IT Solutions India Pvt Ltd,1596398,Bihar,6,Punjab,0
+2023_LSGD_98129_2,266511,Open Limited,Works,Item Rate,ABHILASH K R,4596304,Tamil Nadu,3,Madhya Pradesh,0
+2023_LSGD_103458_1,256566,Open Limited,Works,Item Rate,FIFA CONSTRUCTIONS,3495631,Bihar,1,Gujarat,1
+2023_LSGD_103458_1,256552,Open Limited,Works,Item Rate,NOOR CONSTRUCTIONS,7321210,Delhi,10,Punjab,0
+2023_LSGD_103440_1,256405,Open Limited,Works,Item Rate,Vande Matharam,6053096,Delhi,5,Tamil Nadu,1
+2023_CDIT_106320_1,264749,Open Limited,Goods,Supply,MEDICAL AND VISUAL TECHNOLOGIES Pvt.Ltd,4342760,Bihar,1,Madhya Pradesh,1
+2023_CDIT_106320_1,266848,Open Limited,Goods,Supply,K M Technologies,2563807,Madhya Pradesh,10,Telangana,1
+2023_KSEDC_28566_1,54512,Open Limited,Goods,Item Wise,Misuvi Sales Co,4622747,Rajasthan,7,Tamil Nadu,0
+2023_Irrig_15718_1,31696,Open Limited,Works,Percentage,MOTHERLANDCONSTRUCTION,8299528,Madhya Pradesh,2,Telangana,1
+2023_LSGD_101455_1,257851,Open Limited,Works,Item Rate,POWERMECH DIESELS,9170882,Madhya Pradesh,9,Bihar,0
+2023_Irrig_15718_1,31625,Open Limited,Works,Percentage,DAISY JOSE,3430287,Bihar,9,Bihar,0
+2023_PWD_29623_1,58228,Open Limited,Works,Percentage,PARAPPANANGADI LABOUR CONTRACT CO-OPERATIVE SOCIETY,2021005,Gujarat,2,Rajasthan,0
+2023_LSGD_95713_1,235926,Open Limited,Works,Item Rate,VIBIN B,1386539,Telangana,10,Delhi,0
+2023_PWD_29631_1,58232,Open Limited,Works,Percentage,PARAPPANANGADI LABOUR CONTRACT CO-OPERATIVE SOCIETY,5459641,Tamil Nadu,10,Telangana,0
+2023_DoP_23645_2,58623,Open Limited,Goods,Supply,IHC Holland BV,7496263,Bihar,6,Andhra Pradesh,1
+2023_LSGD_28328_1,54280,Open Limited,Works,Percentage,R.Sureshkumar,4216349,Gujarat,2,Gujarat,1
+2023_DoP_23645_2,58573,Open Limited,Goods,Supply,Dharsan Dredging And Constructions,9653903,Telangana,4,Bihar,1
+2023_LSGD_86080_40,235920,Open Limited,Works,Item Rate,Sree Ganesh T,4145621,Delhi,4,Telangana,0
+2023_Irrig_30405_1,60212,Open Limited,Works,Percentage,M U ABRAHAM,3711538,Bihar,10,Tamil Nadu,0
+2023_DoP_23645_2,58847,Open Limited,Goods,Supply,Senwatec,5852476,Bihar,10,Tamil Nadu,0
+2023_LSGD_28334_2,56952,Open Limited,Works,Percentage,SELVAN LAKSHMANAN NADAR,7797212,Gujarat,3,Telangana,0
+2023_LSGD_104061_1,259454,Open Limited,Works,Item Rate,MUSTHAFA C.P.,3048543,Andhra Pradesh,9,Kerala,1
+2023_LSGD_94540_2,262479,Open Limited,Works,Item Rate,VIJAYARAJ N,9180246,Delhi,6,Tamil Nadu,1
+2023_LSGD_29605_2,58585,Open Limited,Works,Percentage,SADASIVAN,1419722,Bihar,5,Kerala,0
+2023_LSGD_94540_2,262546,Open Limited,Works,Item Rate,RATHEESH KUMAR.V,385919,Gujarat,6,Madhya Pradesh,1
+2023_KBCWB_29303_2,60088,Open Limited,Goods,Item Rate,TECHNO WORLD THE IT STORE,9287522,Gujarat,8,Gujarat,1
+2023_KBCWB_29303_2,60089,Open Limited,Goods,Item Rate,ideal systems,8941284,Telangana,5,Tamil Nadu,0
+2023_LSGD_103227_1,260069,Global Tenders,Works,Item Rate,M.D.Baby,3760161,Kerala,5,Punjab,1
+2023_LSGD_25231_2,55636,Global Tenders,Works,Percentage,P M VEERANKUTTY,9335650,Madhya Pradesh,1,Madhya Pradesh,0
+2023_KSEB_99988_1,247980,Global Tenders,Works,Percentage,ENGINEERS DIAGNOSTIC CENTRE PRIVATE LIMITED,8664485,Punjab,4,Rajasthan,1
+2023_KSEB_99988_1,251000,Global Tenders,Works,Percentage,Deccan Engineers (India),1159731,Gujarat,7,Gujarat,1
+2023_LSGD_22672_1,45161,Global Tenders,Works,Percentage,SIVAKUMAR,6090691,Bihar,5,Andhra Pradesh,1
+2023_LSGD_102681_3,260029,Global Tenders,Works,Item Rate,VIJEESH P R,4759393,Kerala,6,Kerala,1
+2023_LSGD_102850_1,260026,Global Tenders,Works,Percentage,VIJEESH P R,6319412,Punjab,10,Gujarat,1
+2023_LSGD_22877_1,45165,Global Tenders,Works,Percentage,SIVAKUMAR,3065405,Delhi,1,Kerala,0
+2023_LSGD_22506_2,56737,Global Tenders,Works,Percentage,PRATHAPAN M V,4582881,Punjab,2,Delhi,0
+2023_LSGD_22506_2,56608,Global Tenders,Works,Percentage,Krishnankutty D,9471129,Tamil Nadu,5,Rajasthan,0
+2023_LSGD_30136_1,58470,Global Tenders,Works,Percentage,A NOUSHAD,2305978,Delhi,9,Andhra Pradesh,1
+2023_LSGD_22601_1,45160,Global Tenders,Works,Percentage,SIVAKUMAR,6296381,Punjab,4,Bihar,1
+2023_KU_106186_1,269121,Global Tenders,Goods,Supply,Quinze Technologies Private Limited,3254199,Andhra Pradesh,10,Bihar,1
+2023_LSGD_105400_1,265119,Global Tenders,Works,Item Rate,ABDUL AZEEZ.A,4744081,Gujarat,5,Kerala,1
+2023_KU_106186_1,268801,Global Tenders,Goods,Supply,Triad Microsystems,1637979,Madhya Pradesh,3,Madhya Pradesh,1
+2023_LSGD_104614_1,265664,Global Tenders,Works,Item Rate,DELEEP.M.M,7937913,Tamil Nadu,9,Kerala,0
+2023_FITL_30455_1,59618,Global Tenders,Works,Item Wise,S K Electrics and Infrastructures,471587,Madhya Pradesh,1,Punjab,1
+2023_LSGD_104614_1,264814,Global Tenders,Works,Item Rate,E V NIPIN,6812945,Kerala,6,Madhya Pradesh,0
+2023_KSEB_17511_1,36046,Global Tenders,Works,Turn-key,Netconnect Technology,206051,Delhi,8,Telangana,0
+2023_FITL_30455_1,59800,Global Tenders,Works,Item Wise,XPRESS INC,8609701,Madhya Pradesh,2,Bihar,0
+2023_FITL_30455_1,59833,Global Tenders,Works,Item Wise,CTL Infocom,2808457,Rajasthan,10,Kerala,0
+2023_CUSAT_30836_1,60653,Global Tenders,Services,Supply and Service,MASTECH COMPUTERS,2296099,Bihar,9,Bihar,0
+2023_KSEB_17511_1,35562,Global Tenders,Works,Turn-key,Hi Elect Enterprises,4641346,Gujarat,2,Rajasthan,1
+2023_CUSAT_30836_1,60621,Global Tenders,Services,Supply and Service,Ricoh India Ltd,4484912,Rajasthan,4,Bihar,1
+2023_CUSAT_30836_1,60446,Global Tenders,Services,Supply and Service,Secure Solutions,4064250,Punjab,9,Punjab,0
+2023_DTE_102430_1,260544,Global Tenders,Goods,Item Rate,AUTOPRINT MACHINERY MANUFACTURES PVT LTD,2699243,Kerala,9,Kerala,1
+2023_CUSAT_30836_1,60649,Global Tenders,Services,Supply and Service,SMARTSOFT,4264857,Bihar,4,Tamil Nadu,1
+2023_LSGD_30051_1,58253,Global Tenders,Works,Percentage,badarudeen,514531,Kerala,1,Delhi,0
+2023_LSGD_22882_1,47948,Global Tenders,Works,Percentage,SETHU C,155089,Rajasthan,7,Kerala,0
+2023_LSGD_31079_1,61049,Global Tenders,Works,Item Rate,Muraleedharan AR,6181195,Tamil Nadu,5,Punjab,0
+2023_LSGD_22882_1,48199,Global Tenders,Works,Percentage,MURUKAN.S,4589877,Telangana,7,Telangana,0
+2023_LSGD_22882_1,48315,Global Tenders,Works,Percentage,S S CONSTRUCTIONS,6624297,Punjab,2,Punjab,0
+2023_LSGD_22882_1,48281,Global Tenders,Works,Percentage,KPWSWLCCS LTD Q 459,8670752,Delhi,1,Delhi,0
+2023_DP_105562_1,268666,Global Tenders,Goods,Item Rate,USHA ELECTRONICS SYSTEMS,2603372,Bihar,5,Tamil Nadu,1
+2023_LSGD_24002_2,56715,Global Tenders,Works,Percentage,SANTHOSH S,6807783,Andhra Pradesh,2,Rajasthan,1
+2023_DP_105562_1,268940,Global Tenders,Goods,Item Rate,RAMAKRISHNA SIVADASAN PILLAI,4904798,Gujarat,4,Rajasthan,0
+2023_LSGD_108383_1,269056,Global Tenders,Works,Item Rate,P V JALEELUDHEEN,3748085,Kerala,6,Delhi,1
+2023_LSGD_108383_1,269584,Global Tenders,Works,Item Rate,K M KRISHNAN,3763017,Telangana,8,Kerala,0
+2023_Irrig_82070_1,200339,Global Tenders,Works,Item Rate,SABI ENGINEERING COMPANY,5175156,Telangana,5,Madhya Pradesh,0
+2023_Irrig_82070_1,200482,Global Tenders,Works,Item Rate,Franjo Engineering Corporation,3612753,Delhi,1,Rajasthan,1
+2023_Irrig_82070_1,200747,Global Tenders,Works,Item Rate,ELECTROFINE,1368872,Kerala,9,Madhya Pradesh,1
+2023_Irrig_82070_1,200612,Global Tenders,Works,Item Rate,S K Electrics and Infrastructures,3546109,Kerala,6,Kerala,0
+2023_Irrig_82070_1,201763,Global Tenders,Works,Item Rate,"MATHEW JACOB, ROYAL ELECTRICAL ENTERPRISES",1332093,Telangana,7,Delhi,1
+2023_Irrig_82070_1,197918,Global Tenders,Works,Item Rate,Biju E.M,938580,Andhra Pradesh,7,Andhra Pradesh,0
+2023_LSGD_31061_1,61262,Global Tenders,Works,Percentage,SWAMINATHAN C S,6657002,Punjab,2,Telangana,1
+2023_KMSCL_28847_9,56523,Global Tenders,Goods,Item Wise,Manchel Marketing Company,3516469,Punjab,4,Andhra Pradesh,0
+2023_LSGD_29073_1,56447,Global Tenders,Works,Percentage,kannan,4937998,Gujarat,4,Rajasthan,0
+2023_LSGD_27195_1,52232,Global Tenders,Works,Percentage,IDDINKUNHI ALIAS KHALID A.K,5770816,Madhya Pradesh,5,Madhya Pradesh,1
+2023_HED_104371_1,259602,Global Tenders,Works,Percentage,CAPZCON INFRA PROJECTS PRIVATE LIMITED,7596067,Delhi,8,Telangana,0
+2023_TDB_81268_1,192663,Global Tenders,Goods,Item Rate,RATHEESH. A.V,4832802,Delhi,5,Gujarat,1
+2023_TDB_81217_1,192786,Global Tenders,Goods,Item Rate,Kallyan group,3117941,Telangana,3,Andhra Pradesh,0
+2023_TDB_81273_1,192770,Global Tenders,Goods,Item Rate,Kallyan group,3120536,Kerala,3,Rajasthan,0
+2023_TDB_81273_1,192165,Global Tenders,Goods,Item Rate,SREEAYYAPPA HOTEL,7512625,Kerala,5,Kerala,1
+2023_TDB_81279_1,192645,Global Tenders,Goods,Item Rate,KRISHNA KUMAR,7341450,Kerala,9,Andhra Pradesh,0
+2023_ETPK_17758_1,36402,Global Tenders,Works,Percentage,K V JOSEPH AND SONS PRIVATE LIMITED,1725212,Delhi,3,Rajasthan,1
+2023_LSGD_21606_2,47266,Global Tenders,Works,Percentage,REJI JOSEPH,8613152,Gujarat,2,Delhi,0
+2023_LSGD_99570_1,258054,Global Tenders,Works,Item Rate,N. C. UTHUPPAN,3606849,Gujarat,6,Kerala,0
+2023_ETPK_17758_1,36373,Global Tenders,Works,Percentage,SOUTH INDIAN CONSTRUCTIONS,1561599,Andhra Pradesh,9,Tamil Nadu,0
+2023_ETPK_17758_1,36207,Global Tenders,Works,Percentage,Vellapally Constructions,3975003,Punjab,8,Punjab,0
+2023_Irrig_297917_1,730082,Global Tenders,Works,Item Rate,SoorajkumarKV,5211682,Andhra Pradesh,1,Kerala,1
+2023_LSGD_102389_1,257361,Global Tenders,Works,Item Rate,smitha ratheendradas,7098239,Andhra Pradesh,2,Andhra Pradesh,0
+2023_LSGD_102389_1,256535,Global Tenders,Works,Item Rate,JOSE PAUL,4091596,Andhra Pradesh,4,Bihar,1
+2023_LSGD_102386_1,257528,Global Tenders,Works,Item Rate,smitha ratheendradas,4560719,Telangana,1,Madhya Pradesh,0
+2023_LSGD_87746_1,216892,Global Tenders,Works,Percentage,P.Thomas Joy,1490028,Rajasthan,8,Tamil Nadu,1
+2023_LSGD_99570_1,255964,Global Tenders,Works,Item Rate,Joseph Kuruvilla,8465351,Punjab,4,Telangana,1
+2023_LSGD_102702_1,259358,Global Tenders,Works,Item Rate,kurian,2903153,Gujarat,3,Delhi,0
+2023_LSGD_93355_1,232362,Global Tenders,Works,Item Rate,LSK DEVELOPERS,5552656,Kerala,10,Kerala,1
+2023_LSGD_20237_1,40444,Global Tenders,Works,Percentage,P.Assain Haji,9366351,Delhi,10,Madhya Pradesh,0
+2023_ARCHY_100408_1,257930,Global Tenders,Works,Percentage,Gurudeva Constructions,857357,Rajasthan,7,Tamil Nadu,1
+2023_KSTCL_26524_1,50495,Global Tenders,Goods,Item Rate,Lalitha  corporation,986347,Tamil Nadu,3,Tamil Nadu,0
+2023_KSTCL_26508_1,50704,Global Tenders,Goods,Item Rate,SIVA SAI AGENCIES,4660311,Delhi,8,Tamil Nadu,1
+2023_LSGD_93349_1,232359,Global Tenders,Works,Percentage,LSK DEVELOPERS,8594007,Telangana,8,Delhi,0
+2023_KSTCL_26515_1,50705,Global Tenders,Goods,Item Rate,SIVA SAI AGENCIES,3871254,Bihar,2,Gujarat,1
+2023_SFCK_476349_1,1234977,Global Tenders,Goods,Item Rate,G K gases and Chemicals,5445104,Andhra Pradesh,10,Andhra Pradesh,1
+2023_ARCHY_100408_1,258235,Global Tenders,Works,Percentage,Individual,960755,Madhya Pradesh,4,Tamil Nadu,0
+2023_LSGD_25949_1,50014,Global Tenders,Works,Percentage,Rameshkumar,5758684,Rajasthan,5,Kerala,0
+2023_LSGD_25949_1,50041,Global Tenders,Works,Percentage,P SADASIVAN,8621817,Gujarat,6,Kerala,1
+2023_ARCHY_100408_1,258491,Global Tenders,Works,Percentage,Adarsh Construction,7080335,Gujarat,1,Andhra Pradesh,1
+2023_ARCHY_100408_1,258450,Global Tenders,Works,Percentage,MARTIN AA,5696517,Rajasthan,1,Kerala,1
+2023_LSGD_25949_1,50004,Global Tenders,Works,Percentage,BIJU G,1550440,Delhi,10,Gujarat,1
+2023_PWD_405806_1,1004049,Global Tenders,Works,Item Rate,ABU MUHAMMEDALI,7996717,Tamil Nadu,2,Delhi,1
+2023_LSGD_22804_1,44633,Global Tenders,Works,Percentage,CK CHANDHRAN,829534,Delhi,7,Kerala,1
+2023_CUSAT_102954_1,256786,Global Tenders,Services,Piece-work,Ventures Advertising Pvt Ltd,749649,Punjab,7,Kerala,0
+2023_TDB_28637_3,58750,Global Tenders,Goods,Item Rate,P AMBUJAKSHAN,744857,Rajasthan,1,Bihar,0
+2023_LSGD_102525_1,257770,Global Tenders,Works,Item Rate,MUHAMMED KARULLI,8957837,Gujarat,8,Telangana,0
+2023_DME_21487_1,42798,Global Tenders,Goods,Item Rate,Axis Medical Systems,782035,Punjab,6,Telangana,0
+2023_LSGD_102525_1,254630,Global Tenders,Works,Item Rate,Rahamathulla,4187978,Andhra Pradesh,10,Telangana,1
+2023_LSGD_102525_1,257842,Global Tenders,Works,Item Rate,AKBAR MANCHERRY,8916197,Kerala,10,Tamil Nadu,0
+2023_LSGD_25895_1,50007,Global Tenders,Works,Percentage,Aiswarya Construction,4461784,Andhra Pradesh,2,Telangana,1
+2023_GWD_76975_1,178631,Global Tenders,Works,Percentage,BAIJU G,6385422,Rajasthan,5,Tamil Nadu,1
+2023_GWD_76975_1,178500,Global Tenders,Works,Percentage,voltamp electricals,2984745,Madhya Pradesh,2,Bihar,1
+2023_KSEB_98099_1,252852,Global Tenders,Goods,Item Wise,Pushpa Ispat Private Limited,5919498,Delhi,5,Punjab,0
+2023_LSGD_25002_1,49286,Global Tenders,Works,Percentage,RAJA,4954048,Telangana,4,Telangana,1
+2023_KWA_100250_1,258795,Global Tenders,Works,Item Rate,ANILKUMAR,6830658,Madhya Pradesh,4,Rajasthan,0
+2023_KPHCC_405791_1,1003799,Global Tenders,Works,Item Rate,Joji Joseph,6831709,Gujarat,3,Madhya Pradesh,0
+2023_LSGD_26417_1,50894,Global Tenders,Works,Percentage,SUNIL KUMAR S.,9830949,Tamil Nadu,6,Telangana,0
+2023_LSGD_25447_1,49628,Global Tenders,Works,Percentage,GEETHA GENESH,3063751,Telangana,1,Gujarat,1
+2023_LSGD_25857_1,49654,Global Tenders,Works,Percentage,BABU M JOSEPH,1875183,Punjab,6,Rajasthan,0
+2023_KWA_100250_1,258741,Global Tenders,Works,Item Rate,N B N ASSOCIATES,4568112,Tamil Nadu,2,Delhi,1
+2023_KWA_100269_1,258757,Global Tenders,Works,Item Rate,N B N ASSOCIATES,238506,Punjab,1,Gujarat,1
+2023_RBDCK_26015_1,51276,EOI,Works,Item Rate,unique engineering,6828747,Gujarat,6,Telangana,1
+2023_KSCDC_26409_1,51827,EOI,Services,Item Rate,RL Logistics Pvt.Ltd,7486110,Andhra Pradesh,9,Telangana,1
+2023_KSCDC_25495_2,51292,EOI,Goods,Item Wise,Scigenics India Pvt Ltd,9610009,Bihar,3,Kerala,0
+2023_LSGD_24888_1,48276,EOI,Works,Percentage,Dilkush,3433492,Tamil Nadu,2,Andhra Pradesh,1
+2023_LSGD_103925_1,259647,EOI,Works,Item Rate,ARUN B,596390,Andhra Pradesh,7,Telangana,1
+2023_LSGD_103925_1,259407,EOI,Works,Item Rate,BENEESH KR,4831194,Kerala,3,Delhi,1
+2023_LSGD_24888_1,48329,EOI,Works,Percentage,LIBIN BABY,4521824,Rajasthan,7,Rajasthan,1
+2023_UoC_26970_1,51499,EOI,Goods,Item Rate,Laser Spectra Services India Pvt. Ltd,2795178,Rajasthan,7,Bihar,1
+2023_TEXFE_27746_1,52877,EOI,Goods,Item Rate,SIVA SAI AGENCIES,5454055,Punjab,1,Andhra Pradesh,0
+2023_TEXFE_27748_1,52885,EOI,Goods,Item Rate,SIVA SAI AGENCIES,992302,Andhra Pradesh,5,Delhi,0
+2023_TEXFE_27748_1,52751,EOI,Goods,Item Rate,RV AND SONS,363129,Punjab,8,Rajasthan,1
+2023_LSGD_102524_1,252627,EOI,Works,Item Rate,K K GOPINATHAN,981088,Punjab,7,Andhra Pradesh,1
+2023_UoC_26970_1,52760,EOI,Goods,Item Rate,PerkinElmer India Pvt Ltd,2603044,Telangana,6,Andhra Pradesh,1
+2023_LSGD_102512_1,256490,EOI,Works,Item Rate,Michael M L,7600497,Kerala,8,Delhi,1
+2023_LSGD_102445_1,251545,EOI,Works,Item Rate,K K GOPINATHAN,6595221,Telangana,8,Gujarat,0
+2023_LSGD_102488_1,253408,EOI,Works,Item Rate,ABDUL SALAM,9463078,Gujarat,2,Punjab,1
+2023_NGS_25967_1,48591,EOI,Services,Service,Deepali Designs And Exhibits Pvt. Ltd.,445109,Andhra Pradesh,5,Punjab,0
+2023_NGS_25967_1,49285,EOI,Services,Service,Structures and Hangars,121557,Rajasthan,6,Madhya Pradesh,0
+2023_LSGD_96742_1,237431,EOI,Works,Item Rate,K K GOPINATHAN,1851514,Madhya Pradesh,6,Telangana,1
+2023_LSGD_25880_1,49217,EOI,Works,Percentage,M V Kunhikoran,6861106,Gujarat,4,Rajasthan,0
+2023_LSGD_81852_1,195212,EOI,Works,Item Rate,CHANDRAMOHANAN,4952045,Kerala,9,Delhi,1
+2023_LSGD_81852_1,196294,EOI,Works,Item Rate,Eran Associates,726105,Rajasthan,3,Delhi,0
+2023_LSGD_102512_1,256578,EOI,Works,Item Rate,Shabin Ebrahim A E,5009313,Andhra Pradesh,6,Delhi,0
+2023_LSGD_102512_1,255992,EOI,Works,Item Rate,SIDHIK K I,5128522,Punjab,8,Madhya Pradesh,1
+2023_LSGD_102512_1,256450,EOI,Works,Item Rate,SOUTHERN PAVING TILES,9539110,Tamil Nadu,3,Delhi,0
+2023_KSTCL_27678_1,52689,EOI,Goods,Item Rate,SIVA SAI AGENCIES,9423158,Gujarat,1,Tamil Nadu,0
+2023_KSTCL_27687_1,52745,EOI,Goods,Item Rate,RV AND SONS,3150567,Bihar,10,Rajasthan,1
+2023_KSTCL_27678_1,52495,EOI,Goods,Item Rate,Lalitha  corporation,6787966,Gujarat,10,Madhya Pradesh,1
+2023_HED_101830_1,257760,EOI,Works,Percentage,PRADEEP R P,8208393,Bihar,3,Bihar,1
+2023_Irrig_23800_3,53510,EOI,Works,Percentage,J S Subhash Chandra Babu,5448728,Rajasthan,5,Punjab,0
+2023_NGS_22005_1,45794,EOI,Goods,Item Wise,SWATANTRA STORES PATIALA,4876713,Punjab,5,Bihar,0
+2023_HED_101830_1,257737,EOI,Works,Percentage,Sree Shylam Contracting & Real Estate Pvt Ltd,613772,Rajasthan,8,Rajasthan,0
+2023_Irrig_16436_2,53577,EOI,Works,Percentage,THEKOOT RAMAKRISHNAN SUNILKUMAR,8945708,Telangana,6,Delhi,0
+2023_LSGD_25651_2,53004,EOI,Works,Percentage,ARUN SOMAN,5410387,Bihar,1,Telangana,1
+2023_PWD_17908_1,36195,EOI,Works,Item Rate,mohammed ikbal,3048957,Telangana,1,Bihar,1
+2023_LSGD_25553_1,48951,EOI,Works,Percentage,K. P. SIBY,9656602,Andhra Pradesh,3,Rajasthan,0
+2023_UoC_102979_1,260292,EOI,Goods,Item Rate,Neural Network Pvt Ltd,2801782,Kerala,9,Gujarat,0
+2023_UoC_102979_1,260614,EOI,Goods,Item Rate,TECHNOLOGY EXCELLENCE GROUP  (teg),9450936,Madhya Pradesh,3,Tamil Nadu,1
+2023_UoC_102979_1,262011,EOI,Goods,Item Rate,M.DOS TECH SOLUTIONS,2452151,Kerala,10,Tamil Nadu,0
+2023_UoC_102979_1,261506,EOI,Goods,Item Rate,StarOne IT Solutions India Pvt Ltd,6504539,Delhi,1,Delhi,1
+2023_UoC_102979_1,262025,EOI,Goods,Item Rate,Zigma Solutions,877483,Rajasthan,1,Telangana,0
+2023_PWD_17908_1,36292,EOI,Works,Item Rate,manoharan,4524220,Punjab,7,Gujarat,1
+2023_TDB_84226_1,201204,EOI,Goods,Lump-sum,sri ayyappa studio,1908015,Bihar,7,Rajasthan,1
+2023_PWD_17908_1,36272,EOI,Works,Item Rate,P.K.SULPHIKER,1789979,Delhi,1,Rajasthan,0
+2023_TDB_84226_1,201163,EOI,Goods,Lump-sum,Ayyappas,2494522,Kerala,3,Gujarat,1
+2023_DAH_23162_2,51186,EOI,Goods,Item Wise,Sri Balaji Pharma Engineering,5771054,Delhi,4,Rajasthan,1
+2023_DAH_23030_2,51508,EOI,Goods,Item Wise,SRP Enviro Pvt Ltd,3047968,Gujarat,6,Bihar,1
+2023_DAH_23030_2,50269,EOI,Goods,Item Wise,Kleanzone systems India Pvt Ltd,8981300,Madhya Pradesh,5,Madhya Pradesh,0
+2023_UoC_16487_1,33450,EOI,Works,Item Rate,T P CONSTRUCTIONS,4504578,Madhya Pradesh,4,Gujarat,1
+2023_TDB_84226_1,201225,EOI,Goods,Lump-sum,SHYJU.U,3992775,Bihar,1,Bihar,1
+2023_LSGD_95878_1,239710,EOI,Works,Item Wise,NOUSHAD N P,1116163,Kerala,10,Bihar,0
+2023_DIT_83728_2,261677,EOI,Goods,Item Wise,Zigma Solutions,2916122,Punjab,1,Delhi,0
+2023_DIT_83728_2,262297,EOI,Goods,Item Wise,ideal systems,2944660,Rajasthan,9,Delhi,0
+2023_KSCDC_27923_1,54167,EOI,Goods,Item Wise,Cee Bee Commodities,2068831,Andhra Pradesh,6,Bihar,1
+2023_LSGD_95878_1,238246,EOI,Works,Item Wise,T V Abraham,6989122,Madhya Pradesh,2,Rajasthan,0
+2023_KSCDC_27923_1,54230,EOI,Goods,Item Wise,Classic cashew company,3442645,Punjab,6,Bihar,1
+2023_LSGD_99543_2,260662,EOI,Works,Item Rate,BINU T S,7300803,Tamil Nadu,10,Rajasthan,1
+2023_KITCO_26824_1,51906,EOI,Works,Percentage,KINGS INFRA VENTURES LTD,4620557,Madhya Pradesh,4,Bihar,0
+2023_LSGD_105407_1,261323,EOI,Works,Item Rate,MON MATHEW,5867716,Telangana,5,Telangana,0
+2023_LSGD_99878_2,261235,EOI,Works,Item Rate,MON MATHEW,7874883,Gujarat,2,Kerala,1
+2023_LSGD_104457_1,260361,EOI,Works,Item Rate,MON MATHEW,7293725,Punjab,5,Kerala,0
+2023_LSGD_104476_1,260197,EOI,Works,Item Rate,MON MATHEW,9537569,Kerala,3,Punjab,0
+2023_LSGD_104467_1,259324,EOI,Works,Item Rate,BABU JOSEPH,8296738,Andhra Pradesh,7,Kerala,1
+2023_LSGD_104569_1,261042,EOI,Works,Item Rate,P B RAJEEVAN,7495568,Bihar,10,Tamil Nadu,1
+2023_LSGD_104569_10,260633,EOI,Works,Item Rate,K K SAIDALAVI,6383282,Punjab,10,Kerala,0
+2023_LSGD_105407_1,261241,EOI,Works,Item Rate,jentyjoseph,201456,Delhi,4,Madhya Pradesh,0
+2023_KITCO_26824_1,51870,Test,Works,Percentage,GREEN METHOD ENGINEERING PVT. LTD,1911532,Gujarat,5,Tamil Nadu,0
+2023_UoC_102037_1,258416,Test,Goods,Item Rate,Convergent Technologies,494897,Madhya Pradesh,4,Bihar,0
+2023_TDB_19173_2,39720,Test,Goods,Item Rate,Royal Packaging Solutions,1655692,Madhya Pradesh,10,Delhi,0
+2023_AGRI_96140_2,250885,Test,Works,Item Rate,M.A ABBAS VASHID,4150426,Telangana,4,Rajasthan,1
+2023_LSGD_104440_1,260479,Test,Works,Item Rate,NARAYANAN R,9374250,Punjab,6,Bihar,1
+2023_AGRI_96140_2,252400,Test,Works,Item Rate,SHAFEEQ C.A,7927367,Andhra Pradesh,9,Madhya Pradesh,0
+2023_STL_10512_1,20225,Test,Goods,Item Rate,RV AND SONS,9706101,Tamil Nadu,6,Punjab,1
+2023_Irrig_99558_1,261121,Test,Works,Item Rate,S K Electrics and Infrastructures,4784222,Bihar,8,Telangana,0
+2023_Irrig_99558_1,260766,Test,Works,Item Rate,Hi Elect Enterprises,2626773,Rajasthan,7,Gujarat,0
+2023_Irrig_14714_2,54696,Test,Works,Percentage,sunny varghese,9307624,Andhra Pradesh,5,Rajasthan,1
+2023_Irrig_14714_2,54809,Test,Works,Percentage,Eldho Roy,6075952,Madhya Pradesh,10,Telangana,1
+2023_KCMMF_24859_1,47644,Test,Goods,Item Wise,Tetra Pak India Pvt. Ltd.,2414443,Andhra Pradesh,10,Delhi,0
+2023_KCMMF_24859_1,48797,Test,Goods,Item Wise,IDMC LIMITED,2579259,Andhra Pradesh,10,Gujarat,1
+2023_KRWSA_25356_1,51472,Test,Works,Item Rate,T ABDUSSAMAD,562121,Tamil Nadu,3,Delhi,0
+2023_KCMMF_24859_1,49137,Test,Goods,Item Wise,ISF Industries Pvt Limited,2020069,Bihar,8,Telangana,0
+2023_KRWSA_25369_1,51457,Test,Works,Item Rate,T ABDUSSAMAD,1311579,Bihar,7,Tamil Nadu,1
+2023_KRWSA_25363_1,51438,Test,Works,Item Rate,T ABDUSSAMAD,4431973,Kerala,3,Kerala,1
+2023_KRWSA_25354_1,51437,Test,Works,Item Rate,T ABDUSSAMAD,560596,Punjab,10,Bihar,0
+2023_TTPL_18061_1,36787,Test,Goods,Item Rate,Sarika Enterprises,1641777,Tamil Nadu,10,Rajasthan,0
+2023_NGS_18167_1,38085,Test,Services,Item Wise,The Malayala Manorama Co Ltd,2356944,Madhya Pradesh,9,Tamil Nadu,1
+2023_NGS_18167_1,37216,Test,Services,Item Wise,Percept D Mark A Division of Percept Ltd,9066764,Delhi,10,Punjab,1
+2023_NGS_18167_1,38773,Test,Services,Item Wise,BENNETT COLEMAN AND CO LTD,9664704,Madhya Pradesh,9,Punjab,0
+2023_LSGD_27197_1,52203,Test,Works,Percentage,IRSHAD C.A,7996852,Kerala,7,Bihar,0
+2023_TTPL_18061_1,36694,Test,Goods,Item Rate,sree ramachandra pulverizers,4641201,Rajasthan,9,Gujarat,0
+2023_KSFE_21550_1,43968,Test,Services,Supply and Service,Tanla Solutions Limited,359627,Punjab,5,Rajasthan,1
+2023_KSFE_21550_1,43138,Test,Services,Supply and Service,Spice Digital Ltd,9000923,Punjab,8,Rajasthan,0
+2023_KSFE_21550_1,43520,Test,Services,Supply and Service,Gupshup Technology India Private Limited,1621519,Rajasthan,8,Bihar,1
+2023_KSFE_21550_1,43412,Test,Services,Supply and Service,ValueFirst Digital Media Private Limited,9903700,Telangana,9,Bihar,1
+2023_KSFE_21550_1,44318,Test,Services,Supply and Service,VivaConnect Pvt. Ltd.,3323395,Delhi,7,Andhra Pradesh,0
+2023_KSFE_21550_1,45031,Test,Services,Supply and Service,RouteSms Solutions Limited,7361042,Kerala,5,Tamil Nadu,1
+2023_KSFE_21550_1,44184,Test,Services,Supply and Service,Unicel Technologies Pvt Ltd,9199936,Andhra Pradesh,10,Kerala,0
+2023_DTE_97596_1,263128,Test,Goods,Supply,ACS TECHNOLOGIES,3493941,Gujarat,4,Gujarat,1
+2023_RBDCK_25570_1,52409,Test,Works,Item Rate,SREEDHANYA CONSTRUCTION COMPANY,4725881,Madhya Pradesh,2,Andhra Pradesh,0
+2023_DTE_97596_1,258485,Test,Goods,Supply,INSIGHT SYSTEMS,5401601,Gujarat,2,Gujarat,0
+2023_DTE_97596_1,263803,Test,Goods,Supply,HALCYON TRANSMISSION TECHNOLOGIES,1055986,Telangana,6,Delhi,1
+2023_UAD_103814_1,263759,Test,Works,Piece-work,V tech electricals pvt ltd,1785389,Madhya Pradesh,8,Madhya Pradesh,0
+2023_LSGD_22977_1,45355,Test,Works,Percentage,P.A.SULAIMAN,5573366,Punjab,1,Punjab,1
+2023_LSGD_22989_1,45391,Test,Works,Percentage,KM John,8932242,Delhi,6,Kerala,1
+2023_LSGD_22974_1,45326,Test,Works,Percentage,P A PAREEDKUNJU,8281151,Madhya Pradesh,2,Andhra Pradesh,0
+2023_LSGD_22981_1,45353,Test,Works,Percentage,P.A.SULAIMAN,8040206,Delhi,7,Rajasthan,0
+2023_UAD_103814_1,263790,Test,Works,Piece-work,Eran Associates,9068500,Rajasthan,8,Telangana,1
+2023_KMSCL_25111_7,48719,Test,Goods,Item Wise,Philips India Limited,3673656,Telangana,10,Tamil Nadu,0
+2023_KMSCL_25111_7,47756,Test,Goods,Item Wise,Siemens LTD,8341260,Tamil Nadu,9,Rajasthan,1
+2023_PWD_20470_1,41910,Test,Works,Percentage,ERNAD ENGINEERING ENTERPRISES,6612981,Madhya Pradesh,7,Tamil Nadu,1
+2023_LSGD_104081_1,261675,Test,Works,Item Rate,KARTHIKEYAN VN,740817,Gujarat,6,Rajasthan,1
+2023_LSGD_104828_1,262663,Test,Works,Item Rate,George Varkey,7932867,Madhya Pradesh,6,Tamil Nadu,0
+2023_LSGD_104828_1,261768,Test,Works,Item Rate,Shaji Joseph,4537727,Punjab,1,Delhi,1
+2023_LSGD_105417_1,261353,Test,Works,Item Rate,MON MATHEW,5662572,Tamil Nadu,4,Madhya Pradesh,0
+2023_LSGD_105391_1,261308,Test,Works,Item Rate,MON MATHEW,3218314,Kerala,1,Bihar,1
+2023_LSGD_105391_1,264350,Test,Works,Item Rate,ABY P B,9412196,Madhya Pradesh,6,Delhi,0
+2023_LSGD_104081_1,261676,Test,Works,Item Rate,P J Mathachan,4033822,Rajasthan,8,Telangana,1
+2023_SJD_21504_3,51636,Test,Works,Percentage,G S Engineering Works,5015048,Madhya Pradesh,5,Tamil Nadu,0
+2023_PWD_13212_2,34390,Test,Works,Percentage,Kerala State Construction Corporation Ltd,992435,Bihar,4,Tamil Nadu,1
+2023_TDB_83363_1,198253,Test,Goods,Item Rate,BABU CHALLAPPAN,9438411,Andhra Pradesh,8,Gujarat,0
+2023_KSEB_103873_1,263479,Test,Works,Percentage,Jojo Antony,8741023,Delhi,5,Kerala,1
+2023_LSGD_28510_1,55010,Test,Works,Percentage,SHAMEER A,1084690,Gujarat,6,Andhra Pradesh,1
+2023_LSGD_28510_1,55029,Test,Works,Percentage,K. GOPALAN,6527607,Rajasthan,6,Delhi,0
+2023_KMSCL_25111_5,47754,Test,Goods,Item Wise,Siemens LTD,7554284,Punjab,1,Rajasthan,0
+2023_LSGD_104788_1,261753,Test,Works,Item Rate,KAG Constructions,463992,Rajasthan,2,Madhya Pradesh,0
+2023_SIFL_27037_1,51113,Test,Goods,Item Wise,sanghvi forging Engineering Ltd,8948168,Tamil Nadu,8,Andhra Pradesh,0
+2023_PWD_27862_2,56321,Test,Works,Item Rate,Omega Elevators,9487399,Delhi,4,Delhi,1
+2023_KSIE_28204_1,54700,Test,Works,Item Rate,RUBICON PROJECT MANAGEMENT P LTD,8181788,Tamil Nadu,1,Telangana,1
+2023_KSIE_28204_1,54226,Test,Works,Item Rate,SFU,2255989,Bihar,1,Kerala,1
+2023_KSEDC_29784_1,57585,Test,Goods,Item Wise,Rashi Peripherals Pvt Ltd,8201606,Gujarat,1,Gujarat,0
+2023_KSEDC_29784_1,57590,Test,Goods,Item Wise,Logtech Infoway Pvt Ltd,494129,Gujarat,1,Bihar,1
+2023_KMSCL_25111_1,47749,Test,Goods,Item Wise,Siemens LTD,4299319,Bihar,6,Gujarat,0
+2023_Irrig_28952_1,56511,Test,Works,Percentage,M.A IQBAL,7274779,Rajasthan,7,Bihar,0
+2023_KSEDC_29784_1,57546,Test,Goods,Item Wise,WPG CnC Computers and Peripheral India Pvt Ltd,7013055,Bihar,6,Gujarat,0
+2023_PWD_28653_1,55822,Test,Works,Percentage,CSakeer,8332527,Tamil Nadu,2,Tamil Nadu,0
+2023_KMML_10417_1,23127,Test,Works,Turn-key,Linde India Ltd,4636764,Andhra Pradesh,4,Gujarat,1
+2023_PWD_29633_1,57430,Test,Goods,Item Rate,ICPL SYSTEMS AND TECHNOLOGIES,5955486,Gujarat,1,Delhi,1
+2023_PWD_29633_1,57533,Test,Goods,Item Rate,SMARTSOFT,8324647,Bihar,10,Rajasthan,0
+2023_DET_21255_1,44226,Test,Goods,Item Wise,BEST ENGINEERING CO,6396595,Punjab,5,Telangana,0
+2023_KMML_10417_1,25924,Test,Works,Turn-key,Ellenbarrie Industrial Gases Limited,8288745,Bihar,9,Gujarat,1
+2023_PWD_28653_1,55941,Test,Works,Percentage,K.K. Constructions,9697865,Delhi,5,Delhi,0
+2023_RPL_28171_1,55045,Test,Goods,Item Rate,salimbarrels,6391227,Rajasthan,5,Kerala,0
+2023_KSEDC_29964_1,57939,Test,Goods,Item Wise,Rashi Peripherals Pvt Ltd,6152875,Gujarat,10,Delhi,0
+2023_KSEDC_29964_1,57948,Test,Goods,Item Wise,ICOM SOLUTIONS,5663051,Tamil Nadu,8,Gujarat,0
+2023_KSEDC_29964_1,57951,Test,Goods,Item Wise,FORERUN COMPUTERS AND SYSTEMS PRIVATE LIMITED,7732516,Punjab,9,Bihar,1
+2023_KSEDC_29964_1,57930,Test,Goods,Item Wise,Zigma Solutions,9248364,Tamil Nadu,6,Telangana,0
+2023_LSGD_102354_1,256134,Test,Works,Item Rate,SHAJI JOSEPH,4777404,Punjab,1,Bihar,1
+2023_KCMMF_25110_1,47855,Test,Goods,Item Wise,Tetra Pak India Pvt. Ltd.,4412827,Bihar,3,Madhya Pradesh,0
+2023_KCMMF_25110_1,48798,Test,Goods,Item Wise,IDMC LIMITED,5197349,Bihar,10,Delhi,0
+2023_LSGD_28861_1,55796,Test,Works,Percentage,hunifa meethal,2571830,Gujarat,8,Rajasthan,1
+2023_KCMMF_25110_1,49023,Test,Goods,Item Wise,Repute Engineers Pvt Ltd,5106283,Kerala,6,Bihar,0
+2023_KCMMF_25110_1,50406,Test,Goods,Item Wise,FBF Homogenizers (I) Pvt Ltd,2978341,Punjab,7,Rajasthan,0
+2023_KCMMF_25110_1,49875,Test,Goods,Item Wise,ISF Industries Pvt Limited,1092971,Punjab,6,Telangana,0
+2023_LSGD_106122_1,264029,Test,Works,Item Rate,ZUBAIR KA,6460932,Rajasthan,3,Punjab,1
+2023_LSGD_106122_1,264046,Test,Works,Item Rate,K BALAKRISHNAN,1655129,Tamil Nadu,10,Rajasthan,0
+2023_FD_29743_1,58402,Test,Works,Percentage,T P MOHAMMED,9527262,Telangana,9,Gujarat,1
+2023_LSGD_102357_1,256191,Test,Works,Item Rate,Vargheese Francis,2179498,Andhra Pradesh,9,Delhi,1
+2023_UoC_102880_1,262276,Test,Goods,Item Rate,PerkinElmer India Pvt Ltd,6163212,Bihar,1,Telangana,1
+2023_LSGD_105888_1,265754,Test,Works,Item Rate,Perfect Constructions,8120609,Punjab,8,Delhi,1
+2023_KSEB_27790_1,52556,Test,Works,Percentage,Maharana Electricals Pvt. Ltd.,8874793,Bihar,5,Punjab,1
+2023_LSGD_29741_1,58539,Test,Works,Percentage,KOLENCHERY TECHNO LABOUR CONTRACT CO OPERATIVE SOCIETY,3787652,Bihar,3,Gujarat,0
+2023_LSGD_105897_1,265750,Test,Works,Item Rate,Panthalanickal Constructions,4747906,Gujarat,7,Gujarat,1
+2023_LSGD_105897_1,265775,Test,Works,Item Rate,SAJU THOMAS,6598604,Telangana,9,Telangana,0
+2023_LSGD_105823_1,265634,Test,Works,Item Rate,Perfect Constructions,5665994,Bihar,10,Tamil Nadu,1
+2023_KSCDC_26409_4,58653,Test,Services,Item Rate,RL Logistics Pvt.Ltd,3245873,Punjab,10,Kerala,1
+2023_LSGD_22580_1,45159,Test,Works,Percentage,SIVAKUMAR,870602,Kerala,1,Rajasthan,1
+2023_LSGD_22580_1,45183,Test,Works,Percentage,kaithady,7417520,Telangana,4,Bihar,1
+2023_LSGD_22580_1,46565,Test,Works,Percentage,REJI ABRAHAM,6807959,Gujarat,1,Punjab,1
+2023_LSGD_22580_1,46846,Test,Works,Percentage,Sree Ganesh T,1161776,Rajasthan,5,Delhi,1
+2023_LSGD_22580_1,47005,Test,Works,Percentage,BOBAN G,7835497,Delhi,7,Bihar,1
+2023_PWD_59528_1,127927,Test,Works,Percentage,M.T ABDUL BASHEER,8427479,Telangana,9,Bihar,1
+2023_PWD_59523_1,127937,Test,Works,Percentage,M.T ABDUL BASHEER,5126979,Punjab,7,Tamil Nadu,0
+2023_FD_258746_1,636941,Test,Works,Percentage,T.K. CONSTRUCTION,5647153,Delhi,4,Andhra Pradesh,0
+2023_LSGD_59199_1,126939,Test,Works,Percentage,Abraham,7319068,Telangana,9,Tamil Nadu,0
+2023_FD_197009_2,489700,Test,Works,Percentage,MARTIN,2807038,Kerala,7,Andhra Pradesh,1
+2023_LSGD_59124_1,126995,Test,Works,Percentage,Sunny,1339046,Punjab,4,Rajasthan,0
+2023_TCCL_80849_1,192094,Test,Goods,Item Wise,AVON STEEL,4897787,Andhra Pradesh,8,Tamil Nadu,1
+2023_LSGD_32191_1,126597,Test,Works,Percentage,KOCHUKRISHNAN A,2087240,Kerala,1,Gujarat,1
+2023_FD_243315_3,665934,Test,Works,Percentage,New General Store,4703279,Kerala,8,Tamil Nadu,0
+2023_PWD_59326_1,129174,Test,Works,Percentage,M MUHAMMED KUNHI,9812699,Telangana,9,Punjab,1
+2023_LSGD_59033_1,128319,Test,Works,Percentage,Bidder,7873190,Tamil Nadu,6,Andhra Pradesh,1
+2023_LSGD_59033_1,128101,Test,Works,Percentage,AC Nasar,1668728,Bihar,3,Punjab,0
+2023_LSGD_59359_1,128120,Test,Works,Percentage,smitha ratheendradas,5196571,Andhra Pradesh,10,Andhra Pradesh,1
+2023_PWD_245274_2,629493,Test,Works,Item Rate,B ABDUL RAHIMAN,5696494,Punjab,9,Telangana,1
+2023_PWD_59311_1,129148,Test,Works,Percentage,M MUHAMMED KUNHI,666298,Punjab,7,Gujarat,0
+2023_KLDC_271780_1,666507,Test,Works,Item Rate,PradeepkumarV,2824303,Delhi,6,Gujarat,1
+2023_LSGD_58888_1,127484,Test,Works,Percentage,MULLAN MOOSA HAJI,5248333,Gujarat,4,Gujarat,1
+2023_LSGD_59787_1,128713,Test,Works,Percentage,C.M.ABDULLAKUNHI,9136242,Telangana,3,Kerala,0
+2023_LSGD_59809_1,128862,Test,Works,Percentage,AK THOUSEEF,783538,Delhi,6,Tamil Nadu,1
+2023_Irrig_277474_1,679972,Test,Works,Item Rate,DAISY JOSE,3538050,Kerala,7,Gujarat,0
+2023_PWD_50509_3,128761,Test,Works,Item Rate,Omega Elevators,1794147,Telangana,3,Andhra Pradesh,1
+2023_PWD_270813_1,663895,Test,Works,Item Rate,NITHEESH.K.S,1558518,Gujarat,4,Punjab,0
+2023_DP_250696_1,622572,Test,Works,Item Rate,Pyrotech Electronics Pvt. ltd ,1534985,Madhya Pradesh,10,Telangana,1
+2023_TCCL_80849_1,192871,Test,Goods,Item Wise,AMAR INDUSTRIAL CORPORATION,6598070,Kerala,2,Gujarat,1
+2023_Irrig_58672_1,129867,Test,Works,Percentage,T.T.THOMASKUTTY,808559,Punjab,5,Madhya Pradesh,1
+2023_LSGD_50016_1,104594,Test,Works,Percentage,AC Nasar,267492,Tamil Nadu,7,Bihar,0
+2023_TEKL_206337_2,499147,Test,Services,Item Wise,ASSOCIATED ROAD CARRIERS LIMITED,3861736,Punjab,1,Rajasthan,1
+2023_LSGD_55204_1,116212,Test,Works,Percentage,ABDU RAZIQ AK,4567301,Tamil Nadu,4,Rajasthan,1
+2023_LSGD_59738_1,127482,Test,Works,Percentage,SAFEY P M,9064543,Gujarat,9,Punjab,1
+2023_LSGD_59962_1,128499,Test,Works,Percentage,INDO TECH,1027828,Tamil Nadu,10,Andhra Pradesh,1
+2023_LSGD_59553_1,127396,Test,Works,Percentage,SADIQ ALI P,6979650,Kerala,5,Telangana,1
+2023_LSGD_59242_1,126509,Test,Works,Percentage,SHANAVAS P K,8979533,Tamil Nadu,6,Kerala,1
+2023_LSGD_59737_1,127959,Test,Works,Percentage,SADIQ ALI P,3640080,Bihar,9,Punjab,1
+2023_LSGD_59734_1,127967,Test,Works,Percentage,SADIQ ALI P,1709784,Telangana,2,Punjab,1
+2023_LSGD_59555_1,127384,Test,Works,Percentage,SADIQ ALI P,4764869,Tamil Nadu,9,Rajasthan,1
+2023_LSGD_238349_1,585626,Test,Works,Item Wise,G PRADEEP,3460979,Bihar,3,Rajasthan,1
+2023_PWD_57500_1,124028,Test,Works,Percentage,M.A IQBAL,8617621,Delhi,9,Andhra Pradesh,1
+2023_KAMCO_230520_1,583742,Test,Goods,Supply,BABU A R,6439777,Andhra Pradesh,8,Punjab,1
+2023_PWD_65666_1,144283,Test,Works,Percentage,Afsal N.,5076136,Rajasthan,5,Telangana,1
+2023_PWD_65666_1,144292,Test,Works,Percentage,Malabar Plus Constructions,3157509,Gujarat,9,Andhra Pradesh,0
+2023_KRFB_267731_1,663350,Test,Works,Item Rate,RAJEEV KUMARAN,8808819,Tamil Nadu,1,Gujarat,1
+2023_UoC_65833_1,145446,Test,Works,Percentage,K P ANILDEV,445567,Delhi,8,Telangana,1
+2023_KLDC_64904_1,139832,Test,Works,Item Rate,DISHA ELECTRONICS,3314443,Rajasthan,8,Gujarat,0
+2023_KSEB_63362_1,143875,Test,Works,Percentage,JAYADASAN P T,7875955,Gujarat,5,Rajasthan,1
+2023_LSGD_57606_2,140199,Test,Works,Percentage,SURENDRAN,4634757,Madhya Pradesh,8,Andhra Pradesh,1
+2023_LSGD_64740_1,140115,Test,Works,Percentage,ANILKUMAR,783140,Bihar,8,Andhra Pradesh,1
+2023_LSGD_64740_1,141823,Test,Works,Percentage,GOPALAKRISHNAN NAIR,342725,Punjab,10,Kerala,1
+2023_LSGD_65254_1,143831,Test,Works,Percentage,JEES PAUL,9484241,Telangana,4,Delhi,1
+2023_PWD_251119_1,612921,Test,Works,Item Rate,ANEESH JACOB,3134673,Telangana,5,Punjab,0
+2023_PWD_66138_1,144597,Test,Works,Percentage,marakkara construction,4678361,Rajasthan,8,Telangana,1
+2023_PWD_65999_1,145062,Test,Works,Percentage,YOOSAFALI K,9924090,Gujarat,3,Bihar,1
+2023_PWD_64131_1,143035,Test,Works,Percentage,PV PRAKASAN,9084104,Telangana,8,Punjab,1
+2023_PWD_64124_1,142032,Test,Works,Percentage,P MUHAMMED,491609,Kerala,10,Telangana,1
+2023_PWD_271848_1,665946,Test,Works,Item Rate,abdul shereef,8736861,Rajasthan,4,Kerala,1
+2023_PWD_63441_1,146543,Test,Works,Percentage,THE URALUNGAL LABOUR CONTRACT CO-OPERATIVE SOCIETY,5121964,Delhi,2,Bihar,0
+2023_LSGD_49024_1,102911,Test,Works,Percentage,V C JAMES,1992730,Delhi,6,Tamil Nadu,1
+2023_LSGD_49024_1,101603,Test,Works,Percentage,V P SEBASTIAN,5007272,Kerala,4,Tamil Nadu,1
+2023_KWA_66684_2,146864,Test,Works,Item Wise,ZUBAIR,2674411,Delhi,4,Delhi,0
